@@ -36,7 +36,7 @@ Click Save and Apply
 
 ``` sh 
 
-Git URL - https://github.com/Abhishek08/node-js-sample.git
+Git URL - https://github.com/LizyBbethy/node-js-sample.git
 
 WebHook Connection URL - http://IPADDRESS/github-webhook/ (push)
 
@@ -71,7 +71,7 @@ FROM node:latest
 
 MAINTAINER Abhishek Modi 
 
-RUN echo "Tryin to build my first application"
+RUN echo "Trying to build my first application"
 
 COPY . /var/www
 
